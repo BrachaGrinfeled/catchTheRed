@@ -1,0 +1,21 @@
+.cell:focus {
+    outline: 0;
+}
+
+.cell {
+    margin: 10px;
+    padding: 40px;
+    width: 10px;
+    height: 10px;
+    border: 0;
+    background: lightgray;
+}
+
+.winner {
+    background: orangered;
+}
+
+.wrapper {
+    width: 300px;
+    margin: auto;
+}
